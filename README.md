@@ -20,23 +20,7 @@ Securely pay for appointments or skincare products through integrated payment op
 6. Reviews & Community
 Access a community-driven review system to help users choose professionals.
 Engage with articles, blogs, and expert skincare tips.
-UI/UX Design Approach:
-1. Aesthetic:
 
-Clean and calming color palette (e.g., pastels or natural tones like beige, green, and light pink).
-Rounded edges, soft typography, and minimalistic design to reflect a sense of calm and trust.
-2. Navigation:
-
-Bottom Navigation Bar: Home, Explore Professionals, Bookings, Skincare Routine, and Profile.
-Smooth transitions and logical information hierarchy to ensure user-friendly navigation.
-3. Key Screens:
-
-Welcome & Onboarding: Interactive, questionnaire-style onboarding to personalize the experience.
-Home Dashboard: Overview of upcoming appointments, reminders, and skincare stats.
-Professional Profiles: Detailed information about each expert, including photos, reviews, certifications, and availability.
-Booking Screen: Streamlined booking flow with filters (location, availability, service type).
-Routine Tracker: An interactive calendar to log and track skincare progress.
-4. Accessibility:
 
 Large, clear buttons for easy navigation.
 Support for dark mode to reduce eye strain.
