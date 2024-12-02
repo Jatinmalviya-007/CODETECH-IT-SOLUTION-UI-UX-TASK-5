@@ -1,4 +1,5 @@
 # CODETECH-IT-SOLUTION-UI-UX-TASK-5
+# UI UX DESIGN & PROTOTYPING SKIN CARE APP
 Skin Care is a sleek and intuitive mobile app designed to simplify the process of booking, managing, and tracking skincare appointments. It offers personalized skincare recommendations, access to top-rated professionals, and the ability to manage skincare routines seamlessly.
 
 Features of the App:
